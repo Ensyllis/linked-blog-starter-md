@@ -1,5 +1,8 @@
 ---
-title: My Homepage for Notes
+title: Joseph's Page for Notes
 excerpt: Here are all my notes
 ---
-Hello World
+Hello Visitor!
+
+Here's a rough table-of-contents
+[[Resume]]
