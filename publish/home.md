@@ -1,8 +1,6 @@
 ---
-title: Joseph's Page for Notes
+title: My Homepage for Notes
 excerpt: Here are all my notes
 ---
-Hello Visitor!
-
-Here's a rough table-of-contents
+Hello World
 [[Resume]]
