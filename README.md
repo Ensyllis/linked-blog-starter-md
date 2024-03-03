@@ -1,4 +1,4 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# Obsidian-MD-Website
+Basic site I built to learn more about me
 
-this is a test
+Credit to: [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) for the inspiration.
