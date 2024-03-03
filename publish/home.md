@@ -1,12 +1,13 @@
 ---
-title: My Homepage for Notes
+title: Joseph S LIu
 excerpt: Here are all my notes
 ---
 Hello World
-[[remote-blog/publish/Resume]]
+
+This is me!
+![[A1 Pasted image 20240303003427.png]]
+
 [[Documentation for Ilan]]
 
-
-I like to eat chicken
-
+Welcome to my home-page!
 
