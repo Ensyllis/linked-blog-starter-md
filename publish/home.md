@@ -10,13 +10,19 @@ This is me!
 According to my UI/UX class, usability is key, so if you're here because you're a recruiter and want to know more about me then here is the table of contents:
 
 
-	[[Education]]
-	[[Full Stack Projects]]
-	[[Data Science Projects]]
-	[[Front-end Projects]]
-	[[Back-end Projects]]
-	[[Work Experience]]
-	[[Resume]]
+[[Education]]
+
+[[Full Stack Projects]]
+
+[[Data Science Projects]]
+
+[[Front-end Projects]]
+
+[[Back-end Projects]]
+
+[[Work Experience]]
+
+[[Resume]]
 
 Now if you got it this far I must show you my repository of memes
 - [[Meme Repository]]
