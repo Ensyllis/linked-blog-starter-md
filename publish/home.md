@@ -1,8 +1,10 @@
 ---
-title: Joseph S LIu
+title: Joseph S Liu
 excerpt: Here is who I am!
 ---
 Hello Visitor!
+
+Tell me to type somethin
 
 This is me!
 ![[A1 Pasted image 20240303003427.png]]

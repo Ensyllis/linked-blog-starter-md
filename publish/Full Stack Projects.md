@@ -21,4 +21,3 @@ and it returns
 - Total amount of cash you will spend on the portfolio
 - Portfolio of the selected Tickers
 
-
