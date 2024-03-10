@@ -31,3 +31,4 @@ Now if you got it this far I must show you my repository of memes
 
 
 
+![[Pasted image 20240310163614.png]]
