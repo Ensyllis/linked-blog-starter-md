@@ -105,7 +105,7 @@
 | Differentiate or Die                                                                  | Jack Trout, Steve Rivkin               |
 | Red Flags: Why Xi's China Is In Jeopardy                                              | George Magnus                          |
 | Why Startups Fail: A New Roadmap for Entrepreneurial Success                          | Tom Eisenmann                          |
-| The Profit Pattern: T                                                                 | John Mautner                           |
+| The Profit Pattern                                                                    | John Mautner                           |
 | The Wisdom of Finance: Discovering Humanity in the World of Risk and Return           | Mihir A. Desai                         |
 | One Click: Jeff Bezos and the Rise of Amazon.com                                      | Richard L. Brandt                      |
 | The Essentials of Risk Management: Second Edition                                     | Michael Crouhy, Dan Galai, Robert Mark |
@@ -145,4 +145,6 @@
 | The Body Keeps the Score                                                              |                                        |
 | Leviathan                                                                             |                                        |
 | Social Contract                                                                       |                                        |
+| Intelligent Investor                                                                  |                                        |
+| Security Analysis                                                                     |                                        |
 |                                                                                       |                                        |
