@@ -30,5 +30,3 @@ Now if you got it this far I must show you my repository of memes
 - Context Behind this: I thought that it was a bit unfortunate that TA's had to grade **boring** homework, so I started adding in memes in there. These are a few notable ones.
 
 
-
-![[Pasted image 20240310163614.png]]
