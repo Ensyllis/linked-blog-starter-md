@@ -10,12 +10,21 @@ Adding a picture is easy.
 
 #### Shortcut:
 - You can Copy Paste directly into this document
+I copy pasted this cat
+![[Pasted image 20240311105038 1.png]]
+File Name: Pasted image 20240311105038 1.png
+As you can see it is inside of the attachment folder
+![[Pasted image 20240311110712.png|400]]
+
 
 *Note:* 
-- For this to work on the website too then you need to configure where the file goes when you paste it(We will do this for you)
-![[Pasted image 20240311104157.png]]
-![[Pasted image 20240311104218.png]]
 
+- For Copy Pasting to work you need to configure where the file goes when you paste it (We will do this for you)
+**Step 1**
+![[Pasted image 20240311104157.png]]
+**Step 2:**
+![[Pasted image 20240311104218.png]]
+Choose the attachment folder
  
 ## 2. Can you add text?
 
@@ -45,7 +54,12 @@ Adding a picture is easy.
     
 Once you have an image then you can resize it by adding "|100" at the end
 Example:
-$![[\text{Picture-1}]]$ if you want to resize it then you can do $![[\text{Picture-1}|70\%]]$ for percentage scaling and $![[\text{Picture-1|1000]]}$ for direct scaling
+$![[\text{Picture-1}]]$ if you want to resize it then you can do $![[\text{Picture-1}|70\%]]$ for percentage scaling and $![[\text{Picture-1|500]]}$ for direct scaling
+
+Cat Example
+70% Scaling![[Pasted image 20240311105038 1.png|70%]]
+
+Direct 500![[Pasted image 20240311105038 1.png|500]]
 ## 5. Can you make the image layout so the pictures are side-by-side?
 
 If you have three pictures such as Picture-1, Picture-2, Picture-3 then you can reference them by
@@ -67,10 +81,11 @@ Is on top of each other
 ## 6. Can you make an external/embedded link?
 
 To make an embedded link you can do the following $[\text{Name}](\text{link url})$ so if you wanted to do something such as Check out my **Patreon** and when people click Patreon it'll link you to their Patreon you can do $[\text{Patreon}](\text{https://www.patreon.com/wlop/posts})$ which will result in [Patreon](https://www.patreon.com/wlop/posts) 
-## 7. Can you make Headers?
+## 7. Is there an easier way to do something like a gif?
 
-Headers are made by putting #'s in front of the word. Add more #'s to make smaller headers
-    
+Same process as a picture!
+You can even do it as a Drag-and-Drop! Try it out now!
+
 ## 8. Can you make an about page?
 
 **Step 1:**
