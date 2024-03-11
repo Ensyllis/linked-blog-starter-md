@@ -5,11 +5,12 @@ Adding a picture is easy.
 - Put the picture you want to show in the attachments folder
 - ![[Pasted image 20240311103906.png]]
 **Step 2:**
-- Showing it is $![[\text{file-name}]]$
-- So if the picture's name is Picture-1 then it is $![[\text{Picture-1}]]$ 
+- Showing it is ![[Pasted image 20240311105656.png]]
+- So if the picture's name is Picture-1 then it is ![[Pasted image 20240311105736.png]] 
 
 #### Shortcut:
 - You can Copy Paste directly into this document
+
 *Note:* 
 - For this to work on the website too then you need to configure where the file goes when you paste it(We will do this for you)
 ![[Pasted image 20240311104157.png]]
@@ -20,6 +21,7 @@ Adding a picture is easy.
 
 **Step 1:**
 - Type it
+
 *Notes:*
 - You can *italicize* with a single asterisk * around the word
 - You can **bold** with two asterisk ** around the word
@@ -33,8 +35,10 @@ Adding a picture is easy.
 **Step 2:**
 - Double-click it
 ![[Pasted image 20240311104436.png]]
+
 **Step 3:**
 - Select "New Note"
+
 **Step 4:**
 - Name it whatever you want the web-page to be named as
 ## 4. Can you resize images?
@@ -45,21 +49,9 @@ $![[\text{Picture-1}]]$ if you want to resize it then you can do $![[\text{Pictu
 ## 5. Can you make the image layout so the pictures are side-by-side?
 
 If you have three pictures such as Picture-1, Picture-2, Picture-3 then you can reference them by
-$$
-![[\text{Picture-1}]]
-![[\text{Picture-2}]]
-![[\text{Picture-3}]]
-$$
+![[Pasted image 20240311105751.png]]
 To have it side-by-side, and if you want to make it top to bottom then you can do
-$$
-![[\text{Picture-1}]]
-$$
-$$
-![[\text{Picture-2}]]
-$$
-$$
-![[\text{Picture-3}]]
-$$
+![[Pasted image 20240311105811.png]]
 
 Using Cat Images as an example we can show that 
 ![[Pasted image 20240311105032.png]]![[Pasted image 20240311105033.png]]![[Pasted image 20240311105033 1.png]]
@@ -91,3 +83,15 @@ To make a link to a page use two brackets then the file's name.
 Let's say that the file's name is "about" then to make a link to "about" you would do
 $[[\text{about}]]$ which creates a button to go to that page in your website.
 
+# 10. Can you push your changes to the website?
+
+Yup!
+**Step 1:**
+- Do Ctrl+P
+**Step 2:**
+- Search "Backup"
+- Git Create Backup should show
+**Step 3:**
+- Press Enter
+
+You're done! Wait around 2 minutes and when you refresh the page it'll be done!
